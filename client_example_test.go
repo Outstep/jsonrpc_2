@@ -19,10 +19,10 @@ package rpc_test
 import (
 	"context"
 	"fmt"
-	rpc "github.com/qlcchain/jsonrpc2"
 	"math/big"
 	"time"
 
+	rpc "github.com/Outstep/jsonrpc2"
 )
 
 // In this example, our client wishes to track the latest 'block number'
