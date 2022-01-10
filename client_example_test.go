@@ -22,7 +22,7 @@ import (
 	"math/big"
 	"time"
 
-	rpc "github.com/Outstep/jsonrpc2"
+	rpc "github.com/Outstep/jsonrpc_2"
 )
 
 // In this example, our client wishes to track the latest 'block number'
